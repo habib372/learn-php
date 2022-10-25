@@ -1,0 +1,3 @@
+<?php
+
+    getmxrr("facebook.com",$)

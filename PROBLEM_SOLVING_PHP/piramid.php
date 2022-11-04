@@ -1,6 +1,6 @@
     <?php
         //Star Pyramid Size
-        $size = 6;
+        $size = 5;
         for($i=1; $i<=$size; $i++){
             for($j=1; $j<=$size-$i; $j++){
                 echo "&nbsp;";
@@ -16,13 +16,13 @@
         *  
       *  *  
     *  *  *  
-  *  *  *  *  
+  *  *  *  *   
 *  *  *  *  *   -->
 
 
 <?php
         //Star Pyramid Size
-        $size = 6;
+        $size = 5;
         for($i=1; $i<=$size; $i++){        
             for($k=1; $k<=$i; $k++){
               echo "*";

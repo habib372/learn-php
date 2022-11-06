@@ -20,6 +20,7 @@
 *  *  *  *  *   -->
 
 
+
 <?php
         //Star Pyramid Size
         $size = 5;
